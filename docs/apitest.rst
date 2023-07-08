@@ -1,6 +1,8 @@
 API Test
 --------
 
+Something something[1]_
+
 .. c:function:: const my_type foo(const my_type *bar)
 
    Some function type thing
@@ -53,3 +55,8 @@ C++ API
    A scoped enum with non-default visibility, and with a specified underlying type.
 
    .. cpp:enumerator:: B
+
+
+.. [1]
+   This is a footnote.
+
