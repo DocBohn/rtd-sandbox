@@ -30,3 +30,10 @@ Yada
 [![Depends on CowPi_stdio](https://img.shields.io/badge/🐮_𝜋_depends_on-CowPi__stdio-rgb(255,36,0))](https://github.com/DocBohn/CowPi_stdio)
 
 Tada?
+
+## A checklist
+
+- [ ] foo
+- [x] bar
+- [ ] baz
+
