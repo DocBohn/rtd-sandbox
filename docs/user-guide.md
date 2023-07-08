@@ -10,7 +10,7 @@ Put more content here.
 This has been a test
 
 ```c
-.. c:function:: const my_type_t foo(const my_type_t bar)
+.. cpp:function:: const MyType Foo(const MyType bar)
 
    Some function type thing
 ```
