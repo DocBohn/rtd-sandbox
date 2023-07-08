@@ -15,7 +15,7 @@ This has been a test
    Some function type thing
 ```
 
-Yada[^1]
+Yada [^1]
 
 ## Some Badges
 
