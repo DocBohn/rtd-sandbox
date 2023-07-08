@@ -9,4 +9,3 @@ Documents
    user-guide
    apitest
    foo/bar
-   foo/baz
