@@ -15,7 +15,7 @@ This has been a test
    Some function type thing
 ```
 
-Yada
+Yada[^1]
 
 ## Some Badges
 
@@ -37,3 +37,4 @@ Tada?
 - [x] bar
 - [ ] baz
 
+[^1] This is a footnote.
