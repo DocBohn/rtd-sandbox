@@ -16,3 +16,17 @@ This has been a test
 ```
 
 Yada
+
+## Some Badges
+
+(we need some stinkin' badges)
+
+[![GitHub Release](https://img.shields.io/github/release/DocBohn/CowPi)](https://github.com/DocBohn/CowPi/releases)
+[![GitHub License](https://img.shields.io/github/license/DocBohn/CowPi)](https://github.com/DocBohn/CowPi/blob/main/LICENSE)
+
+[![Arduino Library](https://www.ardu-badge.com/badge/CowPi.svg)](https://www.ardu-badge.com/CowPi)
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/docbohn/library/CowPi.svg)](https://registry.platformio.org/libraries/docbohn/CowPi)
+
+[![Depends on CowPi_stdio](https://img.shields.io/badge/🐮_𝜋_depends_on-CowPi__stdio-rgb(255,36,0))](https://github.com/DocBohn/CowPi_stdio)
+
+Tada?
