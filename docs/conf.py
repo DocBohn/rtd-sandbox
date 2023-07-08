@@ -1,4 +1,4 @@
-extensions = ['myst_parser']
+extensions = ['myst-parser']
 
 source_suffix = ['.rst', '.md']
 
