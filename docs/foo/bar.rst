@@ -1,8 +1,11 @@
 Xyzzy
 -----
 
-Plugh
+.. toctree::
+   :maxdepth: 2
 
-.. include::baz.rst
+   baz
+
+Plugh
 
 Yada Yada
