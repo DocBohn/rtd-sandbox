@@ -2,7 +2,6 @@ Xyzzy
 -----
 
 .. contents::
-   :backlinks: "entry"
 
 .. toctree::
    :maxdepth: 2
