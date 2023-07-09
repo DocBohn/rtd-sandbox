@@ -9,6 +9,6 @@ Xyzzy
    baz
 
 Plugh
------
+=====
 
 Yada Yada
