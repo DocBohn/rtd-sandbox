@@ -1,6 +1,9 @@
 API Test
 --------
 
+.. contents::
+
+
 Something something [1]_
 
 .. c:function:: const my_type foo(const my_type *bar)
